@@ -1,0 +1,36 @@
+# General
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.DS_Store
+.vscode/
+.idea/
+.venv/
+
+# Virtual Environment (venv)
+venv/
+
+# Flask
+instance/
+.webassets-cache
+
+# Distribution / Packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Installer Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit Tests / Coverage Reports
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Local Configuration
+local_settings.py
+.env
