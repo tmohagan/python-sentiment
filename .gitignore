@@ -34,3 +34,4 @@ htmlcov/
 # Local Configuration
 local_settings.py
 .env
+temp
