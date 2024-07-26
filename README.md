@@ -56,13 +56,13 @@ To deploy:
 - **URL:** `/analyze`
 - **Method:** POST
 - **Body:**
-    ```json
+    ```json```
     {
         "text": "Your text here"
     }
-
+    
 Response:
-```json
+```json```
     {
         "text": "Your text here",
         "sentiment": "positive",
@@ -80,7 +80,7 @@ Response:
     }
 
 Response:
-    ```json
+    ```json```
     [
         {
             "text": "First text",
@@ -105,7 +105,7 @@ Response:
 - **Method:** GET
 
 Response:
-    ```json
+    ```json```
     {
     "status": "healthy"
     }
